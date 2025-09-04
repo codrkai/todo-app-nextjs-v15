@@ -2,8 +2,8 @@ import "./globals.css"
 import SessionWrapper from "@/components/SessionWrapper"
 
 export const metadata = {
-  title: "NextJS 14 Todo App",
-  description: "Todo List App built using NextJS 14 App Router with Next-Auth and Supabase integration.",
+  title: "Todo App - NextJS 15",
+  description: "Todo List App built using NextJS 15 with Next-Auth and Supabase integration. It allows users to manage their tasks with drag and drop functionality.",
 }
 
 export default function RootLayout({ children }) {
